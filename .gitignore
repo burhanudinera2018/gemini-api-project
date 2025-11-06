@@ -1,0 +1,9 @@
+# File sensitif
+    .env
+
+    # Dependensi Node.js
+    /node_modules
+
+    # Log dan cache
+    npm-debug.log*
+    yarn-debug.log*
